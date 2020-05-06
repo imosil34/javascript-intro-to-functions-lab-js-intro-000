@@ -21,4 +21,3 @@ console.log(string.toLowerCase())
    return "I love you, too."
    
  }
- 
